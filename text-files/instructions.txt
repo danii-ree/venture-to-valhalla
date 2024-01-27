@@ -1,0 +1,17 @@
+## Instructions: ##
+
+- By viewing the stats, you can pinpoint what type of attacks you need to use. 
+
+- if you're getting out of health, type heal to heal you for a small amount. 
+Don't use all of it, otherwise you might have a chance of losing.
+
+Keywords: 
+    exit/quit            - Terminates the game 
+    help                 - Lists the instructions and keywords
+    attack               - Attacks the enemy
+    bifrost              - Applies Bifröst to the enemy
+    heal                 - Heals the player
+    stats                - Shows player stats
+    enemyStats           - Shows enemy stats
+
+    
