@@ -1,5 +1,3 @@
-// tesasdfting github on brand new machine
-
 // libraries necessary for game functionality
 #include <iostream>
 #include "gameMechanic.h"
