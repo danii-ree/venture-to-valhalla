@@ -1,10 +1,4 @@
-/*
-*****************************************
-Name: Daniel Rayati
-Class: ICS3U1-02
-Date: January 14, 2023
-******************************************
-*/
+// testing github on brand new machine
 
 // libraries necessary for game functionality
 #include <iostream>
