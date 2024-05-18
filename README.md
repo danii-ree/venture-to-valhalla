@@ -1,4 +1,4 @@
-# venture-to-valhalla
+# Venture to Valhalla
 
 Venture to Valhalla is a roguelike console game based around Norse Mytholodgy. Your objective is to defeat your past enemies and move on to your self-reflective journey.
 
